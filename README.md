@@ -1,7 +1,7 @@
 # 🪑 Furniture Website — UI/UX Design
 
 <p align="center">
-  <img src="./assets/"C:\Users\Acer\Downloads\furniture-preview.png"" alt="Furniture Website Preview" width="900"/>
+  <img src="./assets/furniture-preview.png" alt="Furniture Website Preview" width="900"/>
 </p>
 
 <h3 align="center">
