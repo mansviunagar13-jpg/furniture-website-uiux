@@ -89,7 +89,7 @@ Improving the overall usability and visual appearance of the design.
 ## 🖥️ Design Preview
 
 <p align="center">
-  <img src="./assets/furniture-preview.png" alt="Furniture Website UI/UX" width="850"/>
+  <img src=""C:\Users\Acer\Downloads\furniture-preview.png.png"" alt="Furniture Website UI/UX" width="850"/>
 </p>
 
 ---
