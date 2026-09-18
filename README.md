@@ -1,7 +1,7 @@
 # 🪑 Furniture Website — UI/UX Design
 
 <p align="center">
-  <img src=""C:\Users\Acer\Downloads\furniture-preview.png.png"" alt="Furniture Website Preview" width="900"/>
+  <img src="./assets/furniture-preview.png" alt="Furniture Website Preview" width="900"/>
 </p>
 
 <h3 align="center">
@@ -30,34 +30,34 @@ The design focuses on creating a clean and attractive shopping experience where 
 
 ## 🎯 Project Goals
 
-* 🪑 Create a modern furniture shopping experience
-* 🎨 Design a clean and attractive interface
-* 🧭 Make website navigation simple and intuitive
-* 🛍️ Present furniture products in an appealing way
-* 📱 Create a user-friendly and responsive design concept
+- 🪑 Create a modern furniture shopping experience
+- 🎨 Design a clean and attractive interface
+- 🧭 Make website navigation simple and intuitive
+- 🛍️ Present furniture products in an appealing way
+- 📱 Create a user-friendly and responsive design concept
 
 ---
 
 ## ✨ Features
 
-* 🏠 Modern Home Page
-* 🪑 Furniture Product Showcase
-* 🔍 Easy Product Browsing
-* 🛒 E-Commerce Interface
-* 📦 Product Details
-* 🎨 Clean UI Design
-* 🧭 Simple Navigation
-* 📱 Responsive Design Concept
-* ✨ Interactive Figma Prototype
+- 🏠 Modern Home Page
+- 🪑 Furniture Product Showcase
+- 🔍 Easy Product Browsing
+- 🛒 E-Commerce Interface
+- 📦 Product Details
+- 🎨 Clean UI Design
+- 🧭 Simple Navigation
+- 📱 Responsive Design Concept
+- ✨ Interactive Figma Prototype
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-| Tool                | Purpose                            |
-| ------------------- | ---------------------------------- |
-| 🎨 Figma            | UI/UX Design & Prototyping         |
-| 🖼️ Figma Prototype | Interactive Website Flow           |
+| Tool | Purpose |
+|---|---|
+| 🎨 Figma | UI/UX Design & Prototyping |
+| 🖼️ Figma Prototype | Interactive Website Flow |
 | 💡 UI/UX Principles | User Experience & Interface Design |
 
 ---
@@ -89,7 +89,7 @@ Improving the overall usability and visual appearance of the design.
 ## 🖥️ Design Preview
 
 <p align="center">
-  <img src=""C:\Users\Acer\Downloads\furniture-preview.png.png"" alt="Furniture Website UI/UX" width="850"/>
+  <img src="./assets/furniture-preview.png" alt="Furniture Website UI/UX" width="850"/>
 </p>
 
 ---
@@ -112,14 +112,14 @@ Improving the overall usability and visual appearance of the design.
 
 Through this project, I practiced:
 
-* 🎨 UI Design
-* 🧠 UX Thinking
-* 📐 Layout & Spacing
-* 🔤 Typography
-* 🎨 Color Selection
-* 🖼️ Product Presentation
-* 🔗 Interactive Prototyping
-* 🧭 User Navigation
+- 🎨 UI Design
+- 🧠 UX Thinking
+- 📐 Layout & Spacing
+- 🔤 Typography
+- 🎨 Color Selection
+- 🖼️ Product Presentation
+- 🔗 Interactive Prototyping
+- 🧭 User Navigation
 
 ---
 
@@ -127,8 +127,8 @@ Through this project, I practiced:
 
 ### **Mansvi Unagar**
 
-🎓 BSc IT Student
-🎨 UI/UX Designer
+🎓 BSc IT Student  
+🎨 UI/UX Designer  
 💻 Developer & Tech Enthusiast
 
 ---
@@ -137,7 +137,7 @@ Through this project, I practiced:
 
 ✨ <b>Thank you for visiting this project!</b> ✨
 
-<br><br>
+<br>
 
 <a href="https://github.com/mansviunagar13-jpg">
   <img src="https://img.shields.io/badge/GitHub-Mansvi%20Unagar-181717?style=for-the-badge&logo=github"/>
